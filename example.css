@@ -1,0 +1,32 @@
+.navbar{
+    height: 60px;
+    background-color: #0f1111;
+    display: flex;
+}
+.nav-logo{
+    height: 50px;
+    width: 113px;
+}
+.logo{
+    background-image: url("amazon logo.jpeg");
+    height: 50px;
+    background-size: cover;
+}
+.border{
+    border: 2px solid transparent;
+}
+.border:hover{
+    border: 2px solid white;
+}
+.add-1{
+    color: #cccccc;
+    font-size: 0.85rem;
+}
+.add-2{
+    color: #ffffff;
+    font-size: 1rem;
+}
+.address2{
+    display: flex;
+    align-items: center;
+}
